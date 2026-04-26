@@ -4,6 +4,8 @@ A premium 3-page executive HR Analytics Dashboard built in Power BI to analyze w
 
 This project focuses on helping leadership identify workforce risks, performance gaps, attrition patterns, and recruitment effectiveness using strategic KPI reporting and business-focused visual storytelling.
 
+Live Dashboard - https://app.fabric.microsoft.com/view?r=eyJrIjoiYTA1MTMxNzAtOWJhMC00N2NmLTlhYzYtOWRkOGYxYTA1M2Y0IiwidCI6IjM3NDNlYmQ0LTJjYTMtNDFjMi1iZTA0LTc2Mzg2MzJjYzdjOCJ9
+
 ---
 
 ## Dashboard Overview
